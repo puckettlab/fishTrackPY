@@ -18,8 +18,7 @@ Output are
 
 Control of output can be adjusted by commenting out lines in **runTracking.py** file.
 
-<img src="https://github.com/puckettlab/fishTrackPY/blob/master/figures/sampleVideo.gif" width="250" />
-<img src="https://github.com/puckettlab/fishTrackPY/blob/master/figures/sampleVideo-track.gif" width="250" />
+<img src="https://github.com/puckettlab/fishTrackPY/blob/master/figures/sampleVideo-track.gif" width="500" />
 
 
 
