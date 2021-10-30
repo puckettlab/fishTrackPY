@@ -14,7 +14,7 @@ def showImageHalfSize(img):
         cv2.waitKey(0)
 #-------------------------------------------#
 # getBG
-#       load if exists or call averageVideo
+#       load if exists otherwise call averageVideo
 #-------------------------------------------#
 def getBG(vname,qReRun=1,noisy=0):
     skip_frame  = 10;
