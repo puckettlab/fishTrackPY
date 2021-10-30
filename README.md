@@ -18,6 +18,7 @@ Output are
 
 Control of output can be adjusted by commenting out lines in **runTracking.py** file.
 
+<img src="https://github.com/puckettlab/fishTrackPY/blob/master/figures/sampleVideo.gif" width="250" />
 <img src="https://github.com/puckettlab/fishTrackPY/blob/master/figures/sampleVideo-track.gif" width="250" />
 
 
@@ -37,7 +38,7 @@ Velocity and acceleration data is calculated and tracks are recorded with variab
 
 
 Provided a frame as shown below on the left.  Traditional object detection will not be able to separate fish which swim close together.
-These occulusions occur frequently, which makes for poor tracking of individuals.
+These occlusions occur frequently, which makes for poor tracking of individuals.
 This code uses a combination of traditional techniques along with a novel method to separate individuals to improve tracking.
 fishTrackPY uses line segment detection, group line segments, and is able to improve detection significantly.
 With typical lighting and a dense population of fish, the code is able to track 98% of individuals.
